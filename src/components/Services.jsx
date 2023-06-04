@@ -41,7 +41,7 @@ function Services() {
         <div className="flex justify-center mt-24">
           <img className="w-80 rounded-full" src={sam} alt="" />
         </div>
-        <div className="flex justify-center gap-5  mt-14 text-gray-300 text-sm font-bold lg:gap-10">
+        <div className="flex flex-wrap justify-center w-4/6 gap-5 mt-14 mx-auto text-gray-300 text-sm font-bold lg:gap-10 ">
           <figure className="text-center">
             <img className="w-10 h-10 mx-auto" src={htmlLogo} alt="" />
             <p>HTML</p>
@@ -65,10 +65,10 @@ function Services() {
         </div>
         <div className="text-center  mt-10  lg:w-5/6 lg:mx-auto">
           <p className="text-gray-300 mx-auto mb-5 w-2/3 lg:w-1/2">
-            Lorem ipsum dolor sit amet, consectetur adipisicing elit. Nulla
-            suscipit sed nostrum obcaecati illum facere non quos magni
-            asperiores. Beatae non nostrum rerum porro eligendi! Minus labore
-            fugiat aliquid quibusdam!
+            I'm a web developer based out of Cali, Colombia. I specialize in
+            creating attractive and functional interfaces, focusing on the user
+            experience. My specialities include React, JavaScript, HTML, and
+            CSS. My background is in interior design.
           </p>
           <div className="my-10">
             <p className="text-gray-300 font-bold underline decoration-gray-500 underline-offset-8">

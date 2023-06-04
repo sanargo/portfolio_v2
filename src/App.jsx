@@ -5,12 +5,12 @@ import Footer from "./components/Footer";
 
 function App() {
   return (
-    <>
+    <div className="font-lato">
       <Main />
       <Services />
       <Contact />
       <Footer />
-    </>
+    </div>
   );
 }
 

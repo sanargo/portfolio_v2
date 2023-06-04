@@ -8,6 +8,9 @@ export default {
     extend: {
       colors: {
         "creme": "#D9C884"
+      },
+      fontFamily: {
+        "lato": "Lato"
       }
     },
   },

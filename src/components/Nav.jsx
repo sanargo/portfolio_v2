@@ -28,8 +28,9 @@ function Nav() {
         </li> */}
         <a
           href="#contact"
-          className="h-8 w-28 bg-creme text-slate-800 font-bold  rounded-md flex justify-center items-center lg:h-10 lg:w-32"
+          className="p-2 bg-creme text-slate-800 font-bold  rounded-md flex justify-center items-center"
         >
+          {/* h-8 w-28 */}
           Get in touch
         </a>
       </ul>

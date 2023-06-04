@@ -4,7 +4,7 @@ import { GoLocation } from "react-icons/go";
 
 function ContactInfo() {
   return (
-    <div className="bg-creme w-72 h-72 rounded-md p-4 lg:w-80 lg:h-80">
+    <div className="bg-creme w-72 rounded-md p-4 lg:pb-6 lg:w-80 lg:h-80">
       <p className="text-black font-bold underline decoration-stone-500 underline-offset-8">
         Contact info
       </p>

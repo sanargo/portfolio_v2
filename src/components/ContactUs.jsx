@@ -25,7 +25,7 @@ function ContactUs() {
   };
 
   return (
-    <div className=" w-72 h-72 mt-10 rounded-md p-4 lg:w-96 lg:h-80 lg:mt-0">
+    <div className=" w-72 my-5 rounded-md p-4 lg:w-96 lg:h-80 lg:mt-0">
       <p className="text-gray-300  font-bold underline decoration-stone-500 underline-offset-8">
         Contact me
       </p>
