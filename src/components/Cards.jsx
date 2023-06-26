@@ -5,7 +5,7 @@ function Cards(props) {
       href={props.url}
       target="_blank"
     >
-      <img className="rounded-md" src={props.img} alt="" />
+      <img className="rounded-md h-full" src={props.img} alt="" />
     </a>
   );
 }
