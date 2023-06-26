@@ -47,6 +47,14 @@ const projectsData = [
         repository: "https://github.com/sanargo/tenzies", //update
         description: "This project was built using React + Vite. If you'd like to see the project, click the link below.",
     },
+    {
+        name: "Converter",
+        tags: ["HTML", "Tailwind CSS", "React JS"],
+        img: "/converter.png",
+        url: "https://zingy-dodol-57a267.netlify.app/",
+        repository: "https://github.com/sanargo/converter_react", //update
+        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.",
+    },
 ]
 
 export default projectsData
