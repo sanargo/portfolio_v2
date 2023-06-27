@@ -17,11 +17,11 @@ const projectsData = [
     },
     {
         name: "Gerenate password",
-        tags: ["HTML", "CSS", "JS"],
+        tags: ["HTML", "Tailwind CSS", "React JS"],
         img: "/password-generator.jpg",
-        url: "https://velvety-hotteok-8e5fda.netlify.app",
-        repository: "https://github.com/sanargo/tenzies", //Update
-        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.",
+        url: "https://gleeful-biscochitos-f413b1.netlify.app/",
+        repository: "https://github.com/sanargo/generate_password_react",
+        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.", //Update just this
     },
     {
         name: "Tinder Dog",
@@ -52,8 +52,8 @@ const projectsData = [
         tags: ["HTML", "Tailwind CSS", "React JS"],
         img: "/converter.png",
         url: "https://zingy-dodol-57a267.netlify.app/",
-        repository: "https://github.com/sanargo/converter_react", //update
-        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.",
+        repository: "https://github.com/sanargo/converter_react",
+        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.", //update just this
     },
 ]
 
