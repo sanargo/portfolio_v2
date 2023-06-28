@@ -25,11 +25,11 @@ const projectsData = [
     },
     {
         name: "Tinder Dog",
-        tags: ["HTML", "CSS", "JS"],
+        tags: ["HTML", "Tailwind CSS", "React JS"],
         img: "/tinder_dog.jpg",
-        url: "https://curious-crumble-c945ea.netlify.app",
-        repository: "https://github.com/sanargo/tenzies", //update
-        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.",
+        url: "https://polite-belekoy-d38d6f.netlify.app",
+        repository: "https://github.com/sanargo/tinder_dog_react",
+        description: "This project was built using React + Vite. If you'd like to see the project, click the link below.", //update just this
     },
     {
         name: "Personal dashboard",
